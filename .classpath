@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/Forte 2019 Presentation Kit.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ravisanb/Downloads/Selenium/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
